@@ -63,8 +63,7 @@ GitHub User ID, Full Name, Student Number, and Seneca E-mail address
 - Major cybersecurity incidents
 - Ethics of AI in software development
 - Open source movement and licensing changes
-- ... or anything else that meets the 
-
+- ... or anything else that meets the topic description in the Project Requirements above
 ---
 
 ## GitHub Best Practices for the Project
