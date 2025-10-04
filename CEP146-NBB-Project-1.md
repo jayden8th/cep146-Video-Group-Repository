@@ -90,7 +90,7 @@ GitHub User ID, Full Name, Student Number, and Seneca E-mail address
 ## Group Member Information
 | GitHub User ID | Full Name | Student Number | Seneca E-mail address |
 |---------|--------|-------------|-------------|
-|baomdoan||||
+|baomdoan|Minh Bao Doan|137242244|mbdoan@myseneca.ca|
 |jayden8th||||
 |jisunpark-ca|Jisun Park|114182256|jpark295@myseneca.ca|
 |Jsefeng||||
