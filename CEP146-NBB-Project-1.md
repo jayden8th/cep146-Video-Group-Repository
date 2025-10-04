@@ -83,3 +83,16 @@ GitHub User ID, Full Name, Student Number, and Seneca E-mail address
 
 - GitHub repository with all project materials.
 - Public YouTube video link embedded in the `README.md`
+- 
+
+---
+
+## Group Member Information
+| GitHub User ID | Full Name | Student Number | Seneca E-mail address |
+|---------|--------|-------------|-------------|
+|baomdoan||||
+|jayden8th||||
+|jisunpark-ca|Jisun Park|114182256|jpark295@myseneca.ca|
+|Jsefeng||||
+|sb-lee-dev||||
+
