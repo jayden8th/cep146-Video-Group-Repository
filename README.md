@@ -5,7 +5,7 @@
 |jayden8th||||
 |jisunpark-ca|Jisun Park|114182256|jpark295@myseneca.ca|
 |Jsefeng||||
-|sb-lee-dev||||
+|sb-lee-dev|Seongbae Lee|120971254|slee617@myseneca.ca|
 
 ---
 
