@@ -1,4 +1,4 @@
-## Group Member Information
+# Group Member Information
 | GitHub User ID | Full Name | Student Number | Seneca E-mail address |
 |---------|--------|-------------|-------------|
 |baomdoan|Minh Bao Doan|137242244|mbdoan@myseneca.ca|
