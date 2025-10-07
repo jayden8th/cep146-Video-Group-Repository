@@ -4,7 +4,7 @@
 |baomdoan|Minh Bao Doan|137242244|mbdoan@myseneca.ca|
 |jayden8th||||
 |jisunpark-ca|Jisun Park|114182256|jpark295@myseneca.ca|
-|Jsefeng||||
+|Jsefeng|Jonathan Zhao|138191242|jzhao179@myseneca.ca|
 |sb-lee-dev|Seongbae Lee|120971254|slee617@myseneca.ca|
 
 ---
