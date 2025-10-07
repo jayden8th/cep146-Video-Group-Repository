@@ -1,4 +1,4 @@
-# AI IN SOFTWARE DEVELOPMENT 🤖
+# ETHICS OF AI SOFTWARE DEVELOPMENT 🤖
 
 *[Website](https://merge.rocks/blog/the-ethics-of-ai-in-software-development-what-developers-need-to-know)*
 
