@@ -57,6 +57,8 @@ Body 1 - Bias/Fairness and Data Integrity
 - [Data Integrity](https://outshift.cisco.com/blog/how-to-ensure-ai-data-integrity)
 - [Data Integrity](https://www.potterclarkson.com/insights/what-data-is-used-to-train-an-ai-where-does-it-come-from-and-who-owns-it/)
 
+[Script]
+Artificial intelligence learns from massive amounts of data — from books, research papers, and even social media. But that diversity is both its strength and its weakness. Because when AI learns from us, it also learns our biases — the subtle assumptions, opinions, and patterns we leave in our data. That’s what makes fairness and accuracy such a challenge. Every dataset carries a story, and not all stories are valid. In the end, the integrity of the data defines the integrity of the AI. After all, an AI is only as good — and as fair — as the information we feed it.
 
 ```
 
