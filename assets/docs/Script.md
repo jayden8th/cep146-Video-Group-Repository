@@ -7,7 +7,8 @@
 ```
 Jonathan
 
-
+Artificial intelligence is changing the way we live and work. It drives automation, personalization, and innovation but also raises real concerns. Who’s responsible for how AI is used, and who checks the data it learns from? As AI advances,
+it’s not just about performance; ethics matter too, fairness, transparency, and accountability. In this presentation, we’ll look at AI bias and data integrity, its impact on the environment, and how it manages security and privacy.
 
 [Website](https://merge.rocks/blog/the-ethics-of-ai-in-software-development-what-developers-need-to-know)
 
