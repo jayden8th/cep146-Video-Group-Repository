@@ -2,7 +2,7 @@
 
 *Please List Your Websites Used In Your specific Box*
 
-## [Presentation Slides](https://www.canva.com/design/DAG1OYSiW_8/1G678ajTtSp8qZPwlu4zDg/edit?utm_content=DAG1OYSiW_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+## [Presentation Slides](https://www.canva.com/design/DAG1VJzgiKE/xRanSxz8sLQsXudnTgn_ew/edit#) 
 
 ```
 Jonathan
