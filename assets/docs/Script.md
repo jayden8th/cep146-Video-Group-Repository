@@ -31,12 +31,14 @@ For a brighter future, programmers must make efficiency their core standard, rat
 
 ```
 Seongbae
+[Website](https://merge.rocks/blog/the-ethics-of-ai-in-software-development-what-developers-need-to-know)
 
-
-
-
-
-
+[Script]
+AI systems use a lot of personal data, which makes them a target for misuse or hacking.
+Developers must design systems with privacy, encryption, 
+and strong access control to protect sensitive information.
+Transparency is also important — people should know where AI’s data comes from and how it’s used.
+This helps build trust and reduce bias in AI.
 
 ```
 
