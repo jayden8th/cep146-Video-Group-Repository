@@ -16,9 +16,11 @@ Jonathan
 ```
 Jisun
 
-
-
-
+Environmental Impact 
+1) Carbon footprint
+    MIT Technology Review (https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)
+2) Power Consumtion 
+    Canada Government (https://www.cer-rec.gc.ca/en/data-analysis/energy-markets/market-snapshots/2024/market-snapshot-energy-demand-from-data-centers-is-steadily-increasing-and-ai-development-is-a-significant-factor.html)
 
 ```
 
