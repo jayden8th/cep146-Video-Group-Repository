@@ -1,3 +1,8 @@
+# Final video YouTube link
+[AI Development & Ethical Concerns](https://youtu.be/YcNC80fwxU0?si=HeClQG9UzxCrl-v6)
+
+---
+
 # Group Member Information
 | GitHub User ID | Full Name | Student Number | Seneca E-mail address |
 |---------|--------|-------------|-------------|
@@ -14,6 +19,6 @@
 GitHub User ID, Full Name, Student Number, and Seneca E-mail address
 - [ ] **(Done)** Research notes or draft write-up
 - [ ] **(Done)** Video script or outline
-- [ ] **(In Progress)** Visual slide deck(s) (if used)
-- [ ] **(Next Up)** Final video YouTube link (place this in the main README.md file)
+- [ ] **(Done)** Visual slide deck(s) (if used)
+- [ ] **(Done)** Final video YouTube link (place this in the main README.md file)
 
