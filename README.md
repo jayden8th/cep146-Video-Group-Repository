@@ -1,3 +1,8 @@
+# Final video YouTube link
+[AI Development & Ethical Concerns](https://youtu.be/YcNC80fwxU0?si=HeClQG9UzxCrl-v6)
+
+---
+
 # Group Member Information
 | GitHub User ID | Full Name | Student Number | Seneca E-mail address |
 |---------|--------|-------------|-------------|
