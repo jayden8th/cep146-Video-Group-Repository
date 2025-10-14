@@ -59,10 +59,14 @@ Artificial intelligence learns from massive amounts of data — from books, rese
 
 ```
 Jayden
+Body 3 - Alignment and safety
 
+[Script]
+As AI progresses in development, it not only gets smarter but also gets better at breaking rules sneakily. To prevent safety isues from ai, we need to align the ai with human moral philosophy. Alignment is arguably the most important part of AI developement but is largely ignored by big tech companies due to the lack of monitary gain this field. one day AI will become imposably smarter than all humans and it is imparitive that we are still in control by then.
 
+[References]
 
-
+- [Website](https://bluedot.org/blog/what-is-ai-alignment)
 
 
 ```
